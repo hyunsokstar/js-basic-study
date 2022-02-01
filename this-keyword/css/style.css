@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
+@import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
+
+body {
+  font-family: "Releway", sans-serif;
+  margin: 0;
+  /* line-height: 1.5em; */
+  /* display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; */
+}
+
+a {
+  text-decoration: none;
+}
